@@ -1,4 +1,4 @@
-# phishing-domains-corpus
+# suspect-domains-corpus
 public list of suspect domains for ML training
 
 Examples:
