@@ -12,6 +12,7 @@ https://csirtgadgets.com/?tag=machine-learning
 https://malwaredomains.com  
 http://s3-us-west-1.amazonaws.com/umbrella-static/index.html  
 http://openphish.com
+[PhishingCorpus](https://monkey.org/~jose/phishing/) - mbox files from over ten years of phishing
 
 # LICENSE
 
