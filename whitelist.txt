@@ -16936,7 +16936,6 @@ p12-imap.mail.me.com
 p51-caldav.icloud.com
 realvu.net
 dsp.batmobil.net
-laocaifengxitong.cc
 libs.sphere.com
 p60-caldav.icloud.com
 art.azureedge.net
@@ -16997,7 +16996,6 @@ e10198.b.akamaiedge.net
 images.boldchat.com
 p0.ipstatp.com
 sonar-kut.xx.fbcdn.net
-laocaifengxitong.tv
 ipv4-c059-was001-ix.1.oca.nflxvideo.net
 sonar-lht.xx.fbcdn.net
 p11-bookmarks.fe.apple-dns.net
